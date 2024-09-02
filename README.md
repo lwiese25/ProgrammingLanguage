@@ -5,9 +5,11 @@ This project involves developing a complete interpreter for the Asa programming 
 The Asa language interpreter is designed to parse and execute programs written in a simple, expressive language. An example program in Asa might look like this:
 
 ### Asa
+
 let x = 1 + 1;
 let y = 5 - 2;
 let z = x + y;
+
 The interpreter supports various data types, including strings, numbers, and booleans, and is capable of executing arithmetic operations, variable bindings, and, importantly, conditional expressions.
 
 ## Key Components
